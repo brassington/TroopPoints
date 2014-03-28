@@ -21,3 +21,5 @@ Alright, so here are our question point values from class March 26-28, 2014:
 | Jordan B.      |   | 1  | 1
 | Allen      |     | 1 1/2  | 1 1/2
 | Stan     |     | 1 1/2  | 1 1/2
+
+If you feel that one of these point values is in error, feel free to modify and send me a pull request.
