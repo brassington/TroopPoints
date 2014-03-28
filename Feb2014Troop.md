@@ -3,7 +3,7 @@ TroopPoints
 
 A repo to keep track of class points from multiple troops in MarkDown
 
-Points for Feb 2014 Troop	{#welcome}
+Points for Feb 2014 Troop
 =====================
 
 
